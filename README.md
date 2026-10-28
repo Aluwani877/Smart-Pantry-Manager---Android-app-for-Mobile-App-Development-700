@@ -139,3 +139,6 @@ publishing. The app requests **no INTERNET and no location permissions**.
 
 ## UI/UX
 - Clean Material Design interface.
+
+## Author
+- Abigail Aluwani
