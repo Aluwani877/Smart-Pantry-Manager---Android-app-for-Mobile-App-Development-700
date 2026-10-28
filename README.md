@@ -126,3 +126,5 @@ publishing. The app requests **no INTERNET and no location permissions**.
 
 ## Future Enhancements
 - Add barcode scanning for quick item input.
+
+- Support for metric and imperial units.
