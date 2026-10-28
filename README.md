@@ -136,3 +136,6 @@ publishing. The app requests **no INTERNET and no location permissions**.
 
 - ## Database
 - Built using local SQLite.
+
+## UI/UX
+- Clean Material Design interface.
