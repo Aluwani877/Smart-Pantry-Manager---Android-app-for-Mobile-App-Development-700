@@ -149,3 +149,6 @@ publishing. The app requests **no INTERNET and no location permissions**.
 ## Setup Instructions
 1. Clone the repository.
 2. Open in Android Studio.
+
+## License
+- This project is for educational purposes.
