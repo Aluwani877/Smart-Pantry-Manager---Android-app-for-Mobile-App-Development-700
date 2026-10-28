@@ -145,3 +145,7 @@ publishing. The app requests **no INTERNET and no location permissions**.
 
 ## Technologies Used
 - Java, Android SDK, SQLite.
+
+## Setup Instructions
+1. Clone the repository.
+2. Open in Android Studio.
