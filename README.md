@@ -123,3 +123,6 @@ publishing. The app requests **no INTERNET and no location permissions**.
 - **Student number:** 
 - **Module:** Mobile App Development 700
 - **Institution:** Richfield
+
+## Future Enhancements
+- Add barcode scanning for quick item input.
