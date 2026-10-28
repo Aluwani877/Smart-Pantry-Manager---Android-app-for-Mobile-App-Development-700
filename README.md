@@ -119,8 +119,8 @@ publishing. The app requests **no INTERNET and no location permissions**.
 
 ## Author
 
-- **Name:** 
-- **Student number:** 
+- **Name:** Aluwani Abigail
+- **Student number:** 402411862
 - **Module:** Mobile App Development 700
 - **Institution:** Richfield
 
