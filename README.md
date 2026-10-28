@@ -142,3 +142,6 @@ publishing. The app requests **no INTERNET and no location permissions**.
 
 ## Author
 - Abigail Aluwani
+
+## Technologies Used
+- Java, Android SDK, SQLite.
