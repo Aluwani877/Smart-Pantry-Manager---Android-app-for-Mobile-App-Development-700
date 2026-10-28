@@ -115,3 +115,11 @@ publishing. The app requests **no INTERNET and no location permissions**.
 2. Open *Recipes* -> **Braai Mealies** appears (you have everything it needs).
 3. Delete `Salt` -> the recipe disappears from the list.
 4. Re-add `Salt` -> it comes back. That is the core business logic working.
+
+
+## Author
+
+- **Name:** 
+- **Student number:** 
+- **Module:** Mobile App Development 700
+- **Institution:** Richfield
