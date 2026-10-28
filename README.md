@@ -133,3 +133,6 @@ publishing. The app requests **no INTERNET and no location permissions**.
 - Help users reduce food waste.
 
 - Strict matching algorithm ensures 100% ingredient availability.
+
+- ## Database
+- Built using local SQLite.
