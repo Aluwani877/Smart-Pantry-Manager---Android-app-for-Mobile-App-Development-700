@@ -128,3 +128,6 @@ publishing. The app requests **no INTERNET and no location permissions**.
 - Add barcode scanning for quick item input.
 
 - Support for metric and imperial units.
+
+- ## Project Goals
+- Help users reduce food waste.
