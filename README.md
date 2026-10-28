@@ -131,3 +131,5 @@ publishing. The app requests **no INTERNET and no location permissions**.
 
 - ## Project Goals
 - Help users reduce food waste.
+
+- Strict matching algorithm ensures 100% ingredient availability.
